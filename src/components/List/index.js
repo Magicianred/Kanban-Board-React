@@ -16,7 +16,7 @@ export default function List() {
         </button>
       </header>
 
-      <ul>]
+      <ul>
           <Card />
           <Card />
           <Card />
