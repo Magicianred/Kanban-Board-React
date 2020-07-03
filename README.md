@@ -1,5 +1,5 @@
 # React Kanaban
-![COVID-19 Tracker](https://i.ibb.co/ZLmBwmh/kanban.png)
+![COVID-19 Tracker](https://raw.githubusercontent.com/danielalves96/Images/master/Projetos/Kanban/FireShot%20Capture%20013%20-%20Kanban%20React%20-%20localhost.png?token=AO6ZGFIN5FBVJBXHW5T4DEK674QBS)
 
 ## Descrição
 - Kamban simples em ReactJS com implementação de drag and drop.
